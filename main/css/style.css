@@ -492,8 +492,7 @@ footer .container.contact-us .fa {
 .cd-timeline-block {
   position: relative;
   margin: 2em 0;
-  padding-bottom: 60px;
-  padding-top: 25px;
+  padding-bottom: 30px;
 }
 
 .cd-timeline-block:after {
@@ -694,8 +693,8 @@ footer .container.contact-us .fa {
 }
 
 .cd-timeline-content .cd-date img {
-  width: auto;
-  height: 300px;
+  width: 276px;
+  height: 215.453px;
 }
 
 .cd-timeline-content::before {
@@ -724,6 +723,16 @@ footer .container.contact-us .fa {
     font-size: 14px;
     font-size: 0.875rem;
   }
+
+  .cd-timeline-block {
+    padding-bottom: 60px;
+    padding-top: 25px;
+  }
+
+  .cd-timeline-content .cd-date img {
+    width: auto;
+    height: 300px;
+  }  
 }
 
 @media only screen and (min-width: 1170px) {
