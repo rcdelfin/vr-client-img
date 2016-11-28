@@ -36,6 +36,10 @@ img {
   max-width: 100%;
 }
 
+input[type="text"]:focus:not([readonly]) {
+  border-bottom: 1px solid white;
+  box-shadow: 0 1px 0 0 white;  
+}
 
 /* -------------------------------- 
 
@@ -488,7 +492,8 @@ footer .container.contact-us .fa {
 .cd-timeline-block {
   position: relative;
   margin: 2em 0;
-  padding-bottom: 30px;
+  padding-bottom: 60px;
+  padding-top: 25px;
 }
 
 .cd-timeline-block:after {
@@ -689,8 +694,8 @@ footer .container.contact-us .fa {
 }
 
 .cd-timeline-content .cd-date img {
-  width: 276px;
-  height: 215.453px;
+  width: auto;
+  height: 300px;
 }
 
 .cd-timeline-content::before {

@@ -121,6 +121,7 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  border: none;
 }
 
 .mauticform-button-wrapper .mauticform-button.btn-default[disabled],
@@ -144,4 +145,5 @@
 .mauticform-container .md-form label.active,
 .mauticform-container .md-form input {
   color: white;
+  font-weight: 300;
 }
