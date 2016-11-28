@@ -22,6 +22,7 @@ html * {
 body {
   font-size: 100%;
   font-family: 'Lato', sans-serif;
+  font-weight: 300;
   color: #7f8c97;
   background-color: #EFEFF4;
 }
