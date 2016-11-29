@@ -212,7 +212,7 @@ img {
   max-width: 100%;
 }
 input[type="text"]:focus:not([readonly]),
-textarea:focus:not([readonly]) {
+textarea.md-textarea:focus:not([readonly]) {
   border-bottom: 1px solid white;
   box-shadow: 0 1px 0 0 white;
 }

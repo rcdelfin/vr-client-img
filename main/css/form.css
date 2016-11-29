@@ -162,6 +162,11 @@
   font-weight: 300;
   width: 95%;
 }
+.mauticform-container .md-form textarea {
+  color: white;
+  font-weight: 300;
+  width: 99%;
+}
 .mauticform-page-wrapper.mauticform-page-1 {
   padding-left: 15px;
 }
