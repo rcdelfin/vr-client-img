@@ -868,7 +868,7 @@ footer .container.contact-us .fa {
   position: absolute;
   top: 170px;
   left: 18px;
-  height: 73%;
+  height: 74%;
   width: 4px;
   background: #334659;
 }
@@ -995,7 +995,7 @@ footer .container.contact-us .fa {
     width: 80%;
   }
   #cd-timeline::before {
-    height: 72%;
+    height: 74%;
   }
   .cd-timeline-content .cd-date img {
     width: auto;
